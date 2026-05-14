@@ -6,12 +6,12 @@
 
 ## 📦 智能体概览
 
-| 智能体 | 一句话介绍 | 仓库 |
-|--------|-----------|------|
-| 🛒 智能电商客服 | 退换货规则 + 意图分流（退货/换货/人工/闲聊） | [→ 仓库](https://github.com/qingqing0012/coze-ecommerce-support) |
-| 🎯 职涯·模拟面试官 | 简历优化 + 结构化面试题（基本/深度/价值观） | [→ 仓库](https://github.com/qingqing0012/coze-career-interviewer) |
-| 📝 智能标书写作助手 | 根据需求自动生成专业标书 | [→ 仓库](https://github.com/qingqing0012/coze-bid-writer-assistant) |
-| ⚖️ 合同审阅助手 | 商业/法律风险识别 + 逐条修改建议 | [→ 仓库](https://github.com/qingqing0012/coze-contract-reviewer-assistant) |
+| 智能体 | 一句话介绍 | 🔗 体验 | 仓库 |
+|--------|-----------|--------|------|
+| 🛒 智能电商客服 | 退换货规则 + 意图分流（退货/换货/人工/闲聊） | [👉 立即体验](https://www.coze.cn/s/MRXPAhAouv4/) | [→ 仓库](https://github.com/qingqing0012/coze-ecommerce-support) |
+| 🎯 职涯·模拟面试官 | 简历优化 + 结构化面试题（基本/深度/价值观） | [👉 立即体验](https://www.coze.cn/s/lS-K-gu-bvs/) | [→ 仓库](https://github.com/qingqing0012/coze-career-interviewer) |
+| 📝 智能标书写作助手 | 根据需求自动生成专业标书 | [👉 立即体验](https://www.coze.cn/s/YihbUEJxEVs/) | [→ 仓库](https://github.com/qingqing0012/coze-bid-writer-assistant) |
+| ⚖️ 合同审阅助手 | 商业/法律风险识别 + 逐条修改建议 | [👉 立即体验](https://www.coze.cn/s/m75ilHMA104/) | [→ 仓库](https://github.com/qingqing0012/coze-contract-reviewer-assistant) |
 
 ---
 
@@ -128,6 +128,11 @@
 
 ## 🚀 快速体验
 
-1. 点击上方任一仓库链接
-2. 在 Coze 中创建智能体，导入 `agent/prompt.md` 和 `workflows/*.yaml`
-3. 或直接联系作者获取 Coze 体验链接
+| 智能体 | 直接体验 |
+|--------|----------|
+| 🛒 智能电商客服 | https://www.coze.cn/s/MRXPAhAouv4/ |
+| 🎯 职涯·模拟面试官 | https://www.coze.cn/s/lS-K-gu-bvs/ |
+| 📝 智能标书写作助手 | https://www.coze.cn/s/YihbUEJxEVs/ |
+| ⚖️ 合同审阅助手 | https://www.coze.cn/s/m75ilHMA104/ |
+
+> 点击链接即可与智能体对话。如需查看技术实现，请进入对应仓库。
